@@ -1,5 +1,5 @@
 /alx-pre_course# echo 'My first readme' > README.md 
-/alx-pre_course# cat README.md My first readme
+/alx-pre_course# cat README.md
 /alx-pre_course# git config --global user.email kgosietsile.moloto@yahoo.com
 /alx-pre_course# git config --global user.name KgosiNova
 /alx-pre_course# git add .
@@ -13,4 +13,4 @@ Counting objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.                                                                          
 Total 3 (delta 0), reused 0 (delta 0)                                                                                                 
 To https://github.com/KgosiNova/alx-pre_course.git                                                                                       
- * [new branch]      master -> master 
+ * [new branch]      master -> master
