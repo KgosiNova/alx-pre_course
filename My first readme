@@ -1,5 +1,5 @@
 /alx-pre_course# echo 'My first readme' > README.md 
-/alx-pre_course# cat README.md                My first readme
+/alx-pre_course# cat README.md My first readme
 /alx-pre_course# git config --global user.email kgosietsile.moloto@yahoo.com
 /alx-pre_course# git config --global user.name KgosiNova
 /alx-pre_course# git add .
